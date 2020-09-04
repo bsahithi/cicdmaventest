@@ -39,7 +39,7 @@
                         <uri>https://anypoint.mulesoft.com</uri>
                         <workerType>MICRO</workerType>
                         <objectStoreV2>true</objectStoreV2>
-                        <applicationName>cicdtest</applicationName>
+                        <applicationName>cicdmaventest</applicationName>
                         </cloudHubDeployment>
 				</configuration>
 			</plugin>
